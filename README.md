@@ -1,20 +1,19 @@
-# Base44 App
+# RadioPro Automation
+> Professional browser-based radio automation software for broadcasting stations
 
+## 🎵 Features
+- Audio playlist management
+- Live broadcasting controls
+- Automated scheduling
+- Real-time audio streaming
+- Professional DJ interface
+- Cloud-based operation
 
-This app was created automatically by Base44.
-It's a Vite+React app that communicates with the Base44 API.
+## 🚀 Live Demo
+Access the application: https://app--radio-pro-automation-07fae322.base44.app/
 
-## Running the app
-
-```bash
-npm install
-npm run dev
-```
-
-## Building the app
-
-```bash
-npm run build
-```
-
-For more information and support, please contact Base44 support at app@base44.com.
+## 💻 Technology Stack
+- Frontend: React + Vite
+- Styling: Tailwind CSS
+- Platform: Base44
+- Language: JavaScript
